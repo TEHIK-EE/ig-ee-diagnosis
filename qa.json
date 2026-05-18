@@ -1,0 +1,19 @@
+{
+  "url" : "https://fhir.ee/dgn/ImplementationGuide/ee.fhir.dgn",
+  "name" : "EETISIGDIAGNOSIS",
+  "title" : "Seisund ja diagnoos IG",
+  "description" : "Seisund ja diagnoos IG",
+  "status" : "draft",
+  "package-id" : "ee.fhir.dgn",
+  "ig-ver" : "0.1.0",
+  "date" : "Mon, 18 May, 2026 10:57:49 +0000",
+  "dateISO8601" : "2026-05-18T10:57:49+00:00",
+  "errs" : 0,
+  "warnings" : 9,
+  "hints" : 15,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 0,
+  "version" : "5.0.0",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 1509404336
+}

@@ -1,0 +1,14 @@
+[{
+  "id" : "ee.fhir.dgn",
+  "type" : "ImplementationGuide",
+  "url" : "https://fhir.ee/dgn/ImplementationGuide/ee.fhir.dgn",
+  "version" : "0.1.0",
+  "name" : "EETISIGDIAGNOSIS"
+},
+{
+  "id" : "ee-tis-condition",
+  "type" : "StructureDefinition",
+  "url" : "https://fhir.ee/dgn/StructureDefinition/ee-tis-condition",
+  "version" : "0.1.0",
+  "name" : "EETISCondition"
+}]

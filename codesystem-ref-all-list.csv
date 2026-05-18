@@ -1,0 +1,8 @@
+URL,Version,Status,OIDs,Name,Title,Description,Used
+http://terminology.hl7.org/CodeSystem/common-tags,1.0.1,active,"2.16.840.1.113883.4.642.1.1067",CommonTags,Common Tags,"Common Tag Codes defined by FHIR project","ValueSet/common-tags"
+http://terminology.hl7.org/CodeSystem/condition-category,2.0.0,active,"2.16.840.1.113883.4.642.1.1073",ConditionCategoryCodes,Condition Category Codes,"Preferred value set for Condition Categories.","ValueSet/condition-category"
+http://terminology.hl7.org/CodeSystem/condition-clinical,3.0.0,active,"2.16.840.1.113883.4.642.1.1074",ConditionClinicalStatusCodes,Condition Clinical Status Codes,"Preferred value set for Condition Clinical Status.","ValueSet/condition-clinical"
+http://terminology.hl7.org/CodeSystem/condition-ver-status,2.0.1,active,"2.16.840.1.113883.4.642.1.1075",ConditionVerificationStatus,ConditionVerificationStatus,"The verification status to support or decline the clinical status of the condition or diagnosis.","ValueSet/condition-ver-status"
+http://terminology.hl7.org/CodeSystem/extra-security-role-type,1.0.1,active,,SecurityRoleType,Security Role Type,"This CodeSystem contains Additional FHIR-defined Security Role types not defined elsewhere","ValueSet/participation-role-type"
+http://terminology.hl7.org/CodeSystem/v3-ObservationValue,5.0.0,active,"2.16.840.1.113883.5.1063",ObservationValue,ObservationValue,"This code system covers all concepts of HL7-defined values for the Observation value element, when it has a coded datatype.","ValueSet/common-tags"
+urn:ietf:bcp:47,2.0.1,active,"2.16.840.1.113883.6.121",Ietf3066,Tags for the Identification of Languages,"Older value from OID registry.  Superceded; see recommendations in BCP-47.","ValueSet/languages,ValueSet/all-languages"
