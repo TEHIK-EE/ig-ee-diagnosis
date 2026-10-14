@@ -2,7 +2,7 @@ Profile: EETISCondition
 Parent: Condition
 Id: ee-tis-condition
 Title: "Clinical Condition"
-Description: "Diagnoosi teenuse alusprofiil seisundile"
+Description: "Diagnoosi teenuse alusprofiil seisundile."
 * meta.security ^short = "Siia konfidentsiaalsused???"
 * identifier 0..*
 * identifier ^short = "ee. diagnoosi id vaja sliceda! lokaalne ja ülene."
